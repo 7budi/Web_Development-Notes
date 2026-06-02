@@ -1,0 +1,4 @@
+- When we receive a data from the server it come in 3 types of file called HTML, CSS and JavaScript.
+- The **HTML** is responsible for the content of the website like the headers , paragraph , picture, buttons , links etc.
+- The CSS is used to style the website like adding colors of the borders , the shape of the borders etc. it determine how the website looks.
+- The JS allows the website to have a functionality it make the website interactive with the user.
