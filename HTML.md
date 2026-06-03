@@ -6,8 +6,10 @@
 - That is done through the HTML Tags.
 - There are many Tags which we will see one by one.
 ## The Heading Element
- - <*h1> is the opening tag.
- - <*/h1> is the closing tab.
+ - < h1> is the opening tag.
+ - < /h1> is the closing tab.
  - And the thing written in between is content.
- EX: <*h6> Hello World <*/h6>
-All together is called the heading element.
+ 
+ EX: < h6> Hello World < /h6>
+All together is called the **Heading Element**.
+
