@@ -13,3 +13,9 @@
  EX: < h6> Hello World < /h6>
 All together is called the **Heading Element**.
 
+## TAGS
+
+1. < p> < /p> , This tag is for writing paragraph(plain text).
+2. <hr /> ,This is a horizontal rule that draws a line and it doesn't need closing tag thats why it is called a void element.
+3. <br />, This is a break line it can separate(break) a paragraph into one or more lines.
+4. 
