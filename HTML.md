@@ -20,4 +20,4 @@ All together is called the **Heading Element**.
 3. < br />, This is a break line it can separate(break) a paragraph into one or more lines.
 4. < ul> < /ul> , This is unordered list where we put a bunch of < li>< /li> list that we don't care about its order.
 5. < ol>< /ol> , This is ordered list where we have to add a < li>< /li> inside but we care about the order.
-6. < a> < /a>, This is called anchor element which helps us to make a hyper link through one of it's attribute EX: ( a href <-  attribute) and this attributes needs a value ( a href ="www.gogle.com" <- value) you can also add another attribute too if neede.
+6. < a> < /a>, This is called anchor element which helps us to make a hyper link through one of it's attribute EX: ( a href <-  attribute) and this attributes needs a value ( a href ="www.gogle.com" <- value) you can also add another attribute too if need.
