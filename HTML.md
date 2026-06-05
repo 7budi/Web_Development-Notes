@@ -24,3 +24,11 @@ All together is called the **Heading Element**.
 7. < img >, This is an image element it is used to add image or pictures to the website and it need an attribute called src where it goes to the place where the image exist and pick it up, And we can add another attribute called alt where we write what the picture is about so that when someone with disability come he can click the img and it tells what the picture is about.
 
 ## File Path
+
+- A File Path is the address or set of directions used by a browser or server to locate a specific file within a website's folder structure.
+EX: C:/Example1/Example2/Example3 in window we can move to any folder.  
+
+Like the example we can do the same in websites ./Project/img or  ../img.
+
+Absolute path file: This is where we have to start from the start of the folder or the root folder.
+Relative path file: This is when you start from your current path to the destination.
