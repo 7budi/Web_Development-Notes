@@ -32,3 +32,19 @@ Like the example we can do the same in websites ./Project/img or  ../img.
 
 Absolute path file: This is where we have to start from the start of the folder or the root folder.
 Relative path file: This is when you start from your current path to the destination.
+
+## HTML Boilerplate
+
+- It is what we start with when we create a new html file and it looks like this:
+
+< !DOCTYPE html> <- This tells any browser what version of html is written in.
+< html lang="en"> <- everything we want to do to our website will go inside here
+< head> <- 
+
+
+< /head>
+
+
+
+
+< /html> 
