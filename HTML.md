@@ -39,12 +39,14 @@ Relative path file: This is when you start from your current path to the destina
 
 < !DOCTYPE html> <- This tells any browser what version of html is written in.
 < html lang="en"> <- everything we want to do to our website will go inside here
-< head> <- 
-
-
+< head> 
+- This where important information about our website is placed that is not displayed to the user.
+- One thing that is placed here always the meta tag, < meta charset="UTF-8"> this insures that the characters that you use get displayed correctly.
+- Another tag that should be in the head element is < Title>.
 < /head>
 
-
-
+< body>
+- This is where majority of the contents goes, < p>, < a> , < img> .. etc.
+< /body>
 
 < /html> 
