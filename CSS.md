@@ -1,1 +1,2 @@
-- CSS(Cascading Style sheets)
+- CSS(Cascading Style sheets) is used to style our website , changing the plain text of HTML into a beautiful website.
+- 
