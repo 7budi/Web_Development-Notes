@@ -50,3 +50,5 @@ Relative path file: This is when you start from your current path to the destina
 < /body>
 
 < /html> 
+
+- This is all the important things about HTML i studied and took note of for now and if there is somethings i forgot i will add them later.
