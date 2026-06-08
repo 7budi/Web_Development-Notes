@@ -12,3 +12,11 @@
 		Ex:< p class="redT">red< /p>
 - ID selector is another attribute with the same effect to class selector but the difference is that ID selector is for one element or that and it is unique while the class selector can be used for many.
 		Ex:< p Id="main">red< /p>
+
+## Font sizes
+- If we want to change the font size we can do it in different way.
+	1. 1px = 1/96th inch
+	2. 1pt = 1/72 inch
+	3. 1em = 100% of the parent 
+	4. 1rem = 100% of the root(html)
+	
