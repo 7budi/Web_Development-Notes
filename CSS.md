@@ -12,5 +12,3 @@
 		Ex:< p class="redT">red< /p>
 - ID selector is another attribute with the same effect to class selector but the difference is that ID selector is for one element or that and it is unique while the class selector can be used for many.
 		Ex:< p Id="main">red< /p>
-
-- 
