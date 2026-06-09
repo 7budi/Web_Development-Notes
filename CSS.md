@@ -21,7 +21,7 @@
 	3. 1em = 100% of the parent 
 	4. 1rem = 100% of the root(html)
 ### Font weight 
-Font weight changes it just make the font a bit heavier.
+- Font weight changes it just make the font a bit heavier.
 1. Font-weight: bold
 2. Font-weight: normal
 ### Font Family
