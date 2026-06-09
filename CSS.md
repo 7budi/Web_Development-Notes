@@ -31,4 +31,4 @@
 ## The Box Model
 - Margin , Padding and Border together with width and height makes the concept of the box model.
 	1. Border as its name is the outer line of the box which we can adjust as much as we like.
-		- 
+		- EX: border:  
