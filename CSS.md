@@ -28,4 +28,3 @@ Font weight changes it just make the font a bit heavier.
 - This determines how the font looks like.
 	1. font-family:"New times roman", serif
 	2. font-family:Helvetica, sans-serif
-	3.
