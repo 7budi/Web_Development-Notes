@@ -44,10 +44,15 @@
 	 - As its name suggest it goes in sequence from the higher to the lower and the end result that will show is the last one.
 	 - The first level comes from the external then internal lastly inline.
 - Level of importance in CSS:
-	- Position: Wether
-- pecificity:
+	- Position: Whether the rule is higher or lower relative to other rules.
+	- Specificity: refers to how specific is a rule in terms of the element you are applying the rule to.
+		1. Element
+		2. Class
+		3. Attribute
+		4. Id <- the most specific
 	- Type:
-	- Impo
-	tance:
-''
-{-}
+		1. External
+		2. internal
+		3. inline
+	- Importance: this is an attribute you add to make it more important
+		- EX: color: red !important;
