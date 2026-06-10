@@ -36,3 +36,18 @@
 		- EX: padding:20px;
 	3. Margin:The distant between any content and the border is margin.
 		- Ex:margin:10px;
+
+
+## The Cascading part of CSS
+
+ - What happen when two or three CSS rule are add to the same Element?
+	 - As its name suggest it goes in sequence from the higher to the lower and the end result that will show is the last one.
+	 - The first level comes from the external then internal lastly inline.
+- Level of importance in CSS:
+	- Position: Wether
+- pecificity:
+	- Type:
+	- Impo
+	tance:
+''
+{-}
