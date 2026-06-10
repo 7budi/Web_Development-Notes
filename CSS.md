@@ -56,3 +56,9 @@
 		3. inline
 	- Importance: this is an attribute you add to make it more important
 		- EX: color: red !important;
+## Positioning 
+- This will help us to position our thing properly and there are 4 types of postioning:
+		1. Static : This type is the HTML default 
+		2. Relative
+		3. Absolute
+		4. Fixed
