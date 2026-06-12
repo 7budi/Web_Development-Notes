@@ -58,7 +58,13 @@
 		- EX: color: red !important;
 ## Positioning 
 - This will help us to position our thing properly and there are 4 types of postioning:
-		1. Static : This type is the HTML default 
-		2. Relative
-		3. Absolute
-		4. Fixed
+		1. Static : This type is the HTML default.
+		2. Relative: This is relative to default position.
+		3. Absolute: Position relative to nearest positioned ancestor or top left corner of webpage.
+		4. Fixed: Position relative to top left corner of browser window.
+
+## CSS Display
+- There are 3 commonly used display values for the display property.	
+	1. Block: When this value is used it take the entire width of the block.
+	2. inline: In inline case the block will default to the content width and height and connot be changed.
+	3. inline-block: Inline-block allow us to change the width and the height of the block and can be in the same line with other inline or block.
