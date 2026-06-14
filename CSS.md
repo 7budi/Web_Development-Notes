@@ -68,4 +68,13 @@
 	1. Block: When this value is used it take the entire width of the block.
 	2. inline: In inline case the block will default to the content width and height and connot be changed.
 	3. inline-block: Inline-block allow us to change the width and the height of the block and can be in the same line with other inline or block.
-## 
+
+
+
+- To make a text wrap around and element we use the CSS float element.
+- To make a web responsive we use:
+	- Media Queries
+	- CSS Grid
+	- CSS Flexbox
+	- External Frameworks e.g Bootstrap.
+	
