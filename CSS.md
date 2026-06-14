@@ -68,6 +68,4 @@
 	1. Block: When this value is used it take the entire width of the block.
 	2. inline: In inline case the block will default to the content width and height and connot be changed.
 	3. inline-block: Inline-block allow us to change the width and the height of the block and can be in the same line with other inline or block.
-## CSS Float
-- Using the float element we can wrap a test with around another element.
-- 
+## 
