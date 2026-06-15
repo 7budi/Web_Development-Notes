@@ -78,4 +78,11 @@
 	- CSS Flexbox
 	- External Frameworks e.g Bootstrap.
 - Note: A div element by default is a block display and span is an inline display.
-- 
+
+## CSS Flexbox
+- is **one-dimensional layout model** designed to align, distribute, and space HTML elements efficiently inside a parent container.
+	- EX: .container{
+		display: flex;
+		gap: 10px;
+		}
+	
