@@ -85,4 +85,4 @@
 		display: flex;
 		gap: 10px;
 		}
-	
+ - When flex direction is row , main axis is horizontal from left to right.
