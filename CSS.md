@@ -77,4 +77,5 @@
 	- CSS Grid
 	- CSS Flexbox
 	- External Frameworks e.g Bootstrap.
-	
+- Note: A div element by default is a block display and span is an inline display.
+- 
