@@ -86,3 +86,8 @@
 		gap: 10px;
 		}
  - When flex direction is row , main axis is horizontal from left to right.
+ - The other thing is there are properties that are intended for the parent and children are different.
+	 - flex-basis -> children 
+	 - gap -> parent 
+	 - flex-wrap -> parent
+	 - justify-content -> parent  
