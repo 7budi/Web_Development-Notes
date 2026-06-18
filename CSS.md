@@ -91,3 +91,5 @@
 	 - gap -> parent 
 	 - flex-wrap -> parent
 	 - justify-content -> parent  
+- what flexbox use to determine the size of an item is by priority list:
+	- Content-width<width<flex-basis<min-width/max-width
