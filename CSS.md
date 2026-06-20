@@ -81,6 +81,8 @@
 
 ## CSS Flexbox
 - is **one-dimensional layout model** designed to align, distribute, and space HTML elements efficiently inside a parent container.
+- Flexbox is a tool to align content along  one dimensional line. 
+
 	- EX: .container{
 		display: flex;
 		gap: 10px;
@@ -93,3 +95,7 @@
 	 - justify-content -> parent  
 - what flexbox use to determine the size of an item is by priority list:
 	- Content-width<width<flex-basis<min-width/max-width
+
+
+## CSS Grid
+- Is a tool for laying out content along a two dimensional grid.
