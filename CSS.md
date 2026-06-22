@@ -106,4 +106,7 @@
 		 grid-template-columns:auto 400px minmax(200px,500px);
 		 grid-auto-rows:50px;
 		}
+- For gird column it is actually 2 other property:
+	- grid-column-start
+	- grid-column-end
   
