@@ -1,2 +1,3 @@
 - JavaScript is a high-level, dynamic programming language that serves as one of the core technologies of the World Wide Web, alongside HTML and CSS.
-- alert is used 
+- alert is used print or op up what's wanted.
+	- alert("Hello World") will show Hello world.
