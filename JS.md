@@ -2,7 +2,9 @@
 - alert is used print or op up what's wanted.
 	- alert("Hello World") will show Hello world.
 - prompt ask for input
-	- prompt("What is your name?")
+	- prompt("What is your name?");
 - var is a container that we put thing to save it to memory.
-	- var Myname = "7budi"
-	- 
+	- var Myname = "7budi";
+- If we want to know the count or length of something we can use the .length.
+	- var Myname = "7budi";
+	- Myname.length;
