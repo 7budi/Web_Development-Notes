@@ -3,3 +3,6 @@
 	- alert("Hello World") will show Hello world.
 - prompt ask for input
 	- prompt("What is your name?")
+- var is a container that we put thing to save it to memory.
+	- var Myname = "7budi"
+	- 
