@@ -5,6 +5,9 @@
 	- prompt("What is your name?");
 - var is a container that we put thing to save it to memory.
 	- var Myname = "7budi";
-- If we want to know the count or length of something we can use the .length.
+- If we want to know the count or length of something we can use .length.
 	- var Myname = "7budi";
 	- Myname.length;
+- If we want to cut or slice from a range of characters we use .slice.
+	- var Myname = "7budi";
+	- Myname.slice(0,3);
