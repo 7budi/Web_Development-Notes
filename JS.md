@@ -15,3 +15,5 @@
 	- var Myname = "7budi";
 	- Myname.toUpperCase();
 	- Myname = Myname.toUpperCase(); <- to make sure that its saved
+	- ![[name.png]]
+	
