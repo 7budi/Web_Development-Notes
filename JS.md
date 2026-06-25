@@ -16,4 +16,6 @@
 	- Myname.toUpperCase();
 	- Myname = Myname.toUpperCase(); <- to make sure that its saved
 	- ![[name.png]]
-	
+- To create a function we use function name().
+	- function work(){};
+- Console.log is something that will show on the console and for the developer only while alert is for the user.
