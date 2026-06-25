@@ -11,3 +11,7 @@
 - If we want to cut or slice from a range of characters we use .slice.
 	- var Myname = "7budi";
 	- Myname.slice(0,3);
+- To change every thing in the string to upper case we use .toUpperCase() and to change to lower case .toLowerCase().
+	- var Myname = "7budi";
+	- Myname.toUpperCase();
+	- Myname = Myname.toUpperCase(); <- to make sure that its saved
