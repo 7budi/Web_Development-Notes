@@ -19,4 +19,15 @@
 - To create a function we use function name().
 	- function work(){};
 - Console.log is something that will show on the console and for the developer only while alert is for the user.
-- To round down a number we caan use the Math.floor().
+- To round down a number we can use the Math.floor().
+
+Exercise:
+- function Left_time(age){
+  var year = (90 - age);
+  var months = (year * 12);
+  var weeks = (year * 52);
+  var days = (year * 365);
+  console.log("You have " + days + " days, " + weeks + " weeks," + months + " months left.")
+}
+
+Left_time(prompt("How old are you?"));
