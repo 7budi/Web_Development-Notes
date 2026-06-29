@@ -22,6 +22,7 @@
 - To round down a number we can use the Math.floor().
 - To do a root use Math.pow(87 , 2)
 - To round a number to nearest integer use Math.round().
+- For random number generation Math.random() and the number that get generated is a 16 decimal place.
 
 Exercise:
 - function Left_time(age){
