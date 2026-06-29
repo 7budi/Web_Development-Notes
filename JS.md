@@ -28,6 +28,9 @@
 	 } else {
 	 }
 - Even though both == and === checks for equality the === also checks the data type.
+- To create an array use, var name = \[ names].
+- name.length counts the names inside  which is 1.
+- name.include \[names] will check if the item exist inside the array.
 
 Exercise:
 - function Left_time(age){
