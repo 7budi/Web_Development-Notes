@@ -23,6 +23,11 @@
 - To do a root use Math.pow(87 , 2)
 - To round a number to nearest integer use Math.round().
 - For random number generation Math.random() and the number that get generated is a 16 decimal place.
+- Creating an control statement is done by if else.
+	- if (condition === condition){
+	 } else {
+	 }
+- Even though both == and === checks for equality the === also checks the data type.
 
 Exercise:
 - function Left_time(age){
