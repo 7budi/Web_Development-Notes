@@ -20,6 +20,8 @@
 	- function work(){};
 - Console.log is something that will show on the console and for the developer only while alert is for the user.
 - To round down a number we can use the Math.floor().
+- To do a root use Math.pow(87 , 2)
+- To round a number to nearest integer use Math.round().
 
 Exercise:
 - function Left_time(age){
