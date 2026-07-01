@@ -47,6 +47,12 @@
 ## Document Object Model
 - It is a programming interface that treats HTML page as a tree like structure of objects, this structure allow javascript to dynamically change or control the structure of a website.
 - Typing document in the console will give you the entire HTML file.
+- Our objects inside the DOM can have Properties and Methods.
+	- Properties describe something about the Object.
+		- name.color <-get property 
+		- name.father = "text"; <- set property
+	- Methods are the thing the object can do.
+		- name.come(); <- call a Method
 
 Exercise:
 - function Left_time(age){
