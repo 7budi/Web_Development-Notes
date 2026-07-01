@@ -60,7 +60,7 @@
 	- For id document.getElementById("name") <- single element.
 	- A more easier way is to use the query , document.querySelector("#name")
 	- To be even more specific document.querySelector("#name h1")
-	- Som
+	- Sometime we my have similar class name and when we do document.querySelector("#name .names") it will give us only the first one and for it to give us all the classes , document.querySelectorAll("#name")
 Exercise:
 - function Left_time(age){
   var year = (90 - age);
