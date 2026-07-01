@@ -33,6 +33,21 @@
 - name.include(names) will check if the item exist inside the array.
 - name.push(1) will push or append to the end of the list and egg.pop will romove the last item.
 
+## Integrating JavaScript
+- There are 3 ways to add javascript to our website 
+	1. Just like the CSS there is an inline were we add it to the element.
+		- < body onload="alert('hello')">
+	2. Internal where we have an alement called script.
+		- < script>
+		 alert("hello")
+		 < /script>
+	3. The last one will be external which is a little different form the css because in css the link tag is written in the head element so that it does the css first where as the javascript is written down right before the body closing tag so that it does everything in the end.
+		- < script src="main.js">< /script>
+
+## Document Object Model
+
+
+
 Exercise:
 - function Left_time(age){
   var year = (90 - age);
