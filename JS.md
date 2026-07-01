@@ -58,6 +58,7 @@
 	- It can be done in this way too document.getElementsByTagName("li").length.
 	- For class it can be done like this document.getElementsByClassName("text").
 	- For id document.getElementById("name") <- single element.
+	- A more easier way is to use the query , document.querySelector("#name")
 
 Exercise:
 - function Left_time(age){
