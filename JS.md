@@ -54,6 +54,9 @@
 	- Methods are the thing the object can do.
 		- name.come(); <- call a Method
 	- example : document.firstElementChild.lastElementChild.lastElementChild.lastElementChild.innerHTML = "HI";
+	- To be more specific use document.getElementsByTagName("li")\[2].style.color = "red";
+	- It can be done in this way too document.getElementsByTagName("li").length.
+	- For class it can be done like this document.getElementsByClassName("text").
 
 Exercise:
 - function Left_time(age){
