@@ -59,7 +59,8 @@
 	- For class it can be done like this document.getElementsByClassName("text").
 	- For id document.getElementById("name") <- single element.
 	- A more easier way is to use the query , document.querySelector("#name")
-
+	- To be even more specific document.querySelector("#name h1")
+	- Som
 Exercise:
 - function Left_time(age){
   var year = (90 - age);
