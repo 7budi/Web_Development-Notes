@@ -53,6 +53,7 @@
 		- name.father = "text"; <- set property
 	- Methods are the thing the object can do.
 		- name.come(); <- call a Method
+	- example : document.firstElementChild.lastElementChild.lastElementChild.lastElementChild.innerHTML = "HI";
 
 Exercise:
 - function Left_time(age){
