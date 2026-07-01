@@ -57,6 +57,7 @@
 	- To be more specific use document.getElementsByTagName("li")\[2].style.color = "red";
 	- It can be done in this way too document.getElementsByTagName("li").length.
 	- For class it can be done like this document.getElementsByClassName("text").
+	- For id document.getElementById("name") <- single element.
 
 Exercise:
 - function Left_time(age){
