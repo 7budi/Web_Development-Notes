@@ -45,8 +45,8 @@
 		- < script src="main.js">< /script>
 
 ## Document Object Model
-
-
+- It is a programming interface that treats HTML page as a tree like structure of objects, this structure allow javascript to dynamically change or control the structure of a website.
+- Typing document in the console will give you the entire HTML file.
 
 Exercise:
 - function Left_time(age){
