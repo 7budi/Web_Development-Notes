@@ -65,6 +65,7 @@
 	- document.querySelector("button").classList.add("invisible")  will add a new class inside the list of classes on the element in the document.
 	- document.querySelector("button").classList.remove("invisible") will do the opposite of add it will remove it.
 	- document.querySelector("button").classList.toggle("invisible") will do the opposite of what already exit , if it is add it will remove it and if it is removed it will add it.  
+	- document.querySelector("h1").innerHTML will give us everything inside the h1 tag even if there is another tag too while .textContent will only give the text.
 Exercise:
 - function Left_time(age){
   var year = (90 - age);
