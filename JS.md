@@ -66,6 +66,9 @@
 	- document.querySelector("button").classList.remove("invisible") will do the opposite of add it will remove it.
 	- document.querySelector("button").classList.toggle("invisible") will do the opposite of what already exit , if it is add it will remove it and if it is removed it will add it.  
 	- document.querySelector("h1").innerHTML will give us everything inside the h1 tag even if there is another tag too while .textContent will only give the text.
+	- document.querySelector("h1").attributes; will give us a list of attributes attached to this element.
+	- document.querySelector("h1").getAttribute("href"); will give back the content.
+	- document.querySelector("h1").setAttribute("href" , "https//www.bing.com"); will change the attribute.
 Exercise:
 - function Left_time(age){
   var year = (90 - age);
