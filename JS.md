@@ -61,6 +61,10 @@
 	- A more easier way is to use the query , document.querySelector("#name")
 	- To be even more specific document.querySelector("#name h1")
 	- Sometime we my have similar class name and when we do document.querySelector("#name .names") it will give us only the first one and for it to give us all the classes , document.querySelectorAll("#name")
+	- document.querySelector("button").classList; will give us a list of classes that are attached to this element.
+	- document.querySelector("button").classList.add("invisible")  will add a new class inside the list of classes on the element in the document.
+	- document.querySelector("button").classList.remove("invisible") will do the opposite of add it will remove it.
+	- document.querySelector("button").classList.toggle("invisible") will do the opposite of what already exit , if it is add it will remove it and if it is removed it will add it.  
 Exercise:
 - function Left_time(age){
   var year = (90 - age);
