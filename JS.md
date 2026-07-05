@@ -80,3 +80,10 @@ Exercise:
 }
 
 Left_time(prompt("How old are you?"));
+
+
+- var drums = document.getElementsByClassName("drum");
+
+for (var i = 0; i < drums.length; i++) {
+    drums[i].addEventListener("click", clicks);
+}                 <- to choose all the available clicks. 
