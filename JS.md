@@ -78,6 +78,9 @@
 				age : 18,
 				lang : ["eng","fren"] 
 			 }
+	### **Constructor function**
+		- is a specialized function used as a blueprint to create and initialize multiple objects with the same structure and behavior.
+		- 
 	
 	
 
