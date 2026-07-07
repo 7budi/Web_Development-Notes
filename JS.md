@@ -72,7 +72,12 @@
 	- document.querySelector("h1").addEventListener() sets up a function to be called whenever the specified event is delivered to the target. So the target in this case is document.querySelector("h1"). The addEventListener have two parameters. the first one event type like "Click", the second is a listener which is usually a javascript function.
 	- if we want to know the identity of the click button we can use "this" to tell us which button is clicked.
 	###  **Object**
-		
+		- is a data type that is used to store collection of keyed data.
+			- EX: var object = {
+				name : "1budi"
+				age : 18,
+				lang : ["eng","fren"] 
+			 }
 	
 	
 
