@@ -129,7 +129,14 @@
 					default:
 						console.log(innerHTML);
 						break;
-}
+					
+						}
+	- event can tell us the event that triggered the function  when using a type of event called keypress and that event got a property that tell which key is pressed.
+		- EX:   document.addEventListener("keypress" ,function (event){
+				sound(event.key);
+				}
+				)
+
 
 
 Exercise:
