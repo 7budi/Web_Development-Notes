@@ -80,7 +80,19 @@
 			 }
 	### **Constructor function**
 		- is a specialized function used as a blueprint to create and initialize multiple objects with the same structure and behavior.
-		- 
+		- EX: function exam (name , age , mark , grade, promostion){
+			 this.name = name;
+			 this.age = age;
+			 this.mark = mark;
+			 this.grade = grade;
+			this.promostion = promostion;
+  
+			}
+
+			var exam1 = new exam("Timmy" , 14 , 89 , "A" , "Pass");
+			var exam2=new exam("Timmy" , 13,80, "C","Pass");
+
+			console.log(exam2.mark);
 	
 	
 
