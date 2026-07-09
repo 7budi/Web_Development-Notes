@@ -137,7 +137,10 @@
 				}
 				)
 
-
+## JQuery
+- Is a feature rich JavaScript library designed to simplify HTML DOM tree traversal , manipulation, event handling and so on.
+- Google CDN : <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+- 
 
 Exercise:
 - function Left_time(age){
