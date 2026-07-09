@@ -140,7 +140,7 @@
 ## JQuery
 - Is a feature rich JavaScript library designed to simplify HTML DOM tree traversal , manipulation, event handling and so on.
 - Google CDN : <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
-- 
+- In javascript if we wanted to select an element we would do so by document.querySelector("h1") and like this H1 would be selected but in jquery it done like this $("h1") this shows how jquery simplify things and makes it easier for the developer.
 
 Exercise:
 - function Left_time(age){
