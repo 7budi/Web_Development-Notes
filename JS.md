@@ -142,6 +142,12 @@
 - Google CDN : <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
 - In javascript if we wanted to select an element we would do so by document.querySelector("h1") and like this H1 would be selected but in jquery it done like this $("h1") this shows how jquery simplify things and makes it easier for the developer.
 - it can select one or more if needed.
+- To change color it can be done like this $("h1").css("color", "red");
+- It can also add class property to specific element , $("h1").addClass("big-title") ;
+- To check if it got a class , $("h1").hasClass("big-title") , will return true if it has that class if not false.
+- To change the content we can do $("h1").text("Hello"). it can be done in this way too $("h1").html(<em>hello</em>). 
+- console.log($("img").attr("src")) this will give us the or load the attribute.
+- it can also set value $("a").attr("herf" , "www.yahoo.com").
 
 Exercise:
 - function Left_time(age){
