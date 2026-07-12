@@ -148,6 +148,12 @@
 - To change the content we can do $("h1").text("Hello"). it can be done in this way too $("h1").html(<em>hello</em>). 
 - console.log($("img").attr("src")) this will give us the or load the attribute.
 - it can also set value $("a").attr("herf" , "www.yahoo.com").
+- Adding eventlistener is much easier , $("h1").click(function(){
+		$("h1").css("color" , "red")
+	 })
+- or $(document).on("click" , function(){
+	 $("h1").css("color" , "green")
+		 })
 
 Exercise:
 - function Left_time(age){
@@ -166,3 +172,7 @@ Left_time(prompt("How old are you?"));
 for (var i = 0; i < drums.length; i++) {
     drums[i].addEventListener("click", clicks);
 }                 <- to choose all the available clicks. 
+
+- $(document).keypress(function(event){
+  $("h1").text(event.key);
+});
