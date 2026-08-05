@@ -6,4 +6,5 @@
 	4. Install the Express package
 	5. Write server application in index.js
 	6. Start server
-- 
+- **What is a Localhost?**
+	- it is simply when we don't have a server on the internet and host our server locally making our own computer our server.
