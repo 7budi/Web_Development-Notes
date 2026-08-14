@@ -16,3 +16,6 @@
 		3. Put: It's when replacing a resource with whatever is sent.<- it change the whole thing
 		4. Patch: It's when patching up a resource. <- it only change the place that need fix.
 		5. Delete:It's when deleting a resource from the server.
+## body-parser
+- Node.js body parsing middleware.
+- Parse incoming request bodies in a middleware before your handlers, available under the `req.body` property.
