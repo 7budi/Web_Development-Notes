@@ -22,3 +22,6 @@
 
 ## Morgan 
 - HTTP request logger middleware for node.js.
+		import morgan from "morgan";
+		app.use(morgan("combined"));
+- 
