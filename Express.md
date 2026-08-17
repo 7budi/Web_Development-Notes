@@ -19,3 +19,6 @@
 ## body-parser
 - Node.js body parsing middleware.
 - Parse incoming request bodies in a middleware before your handlers, available under the `req.body` property.
+
+## Morgan 
+- HTTP request logger middleware for node.js.
