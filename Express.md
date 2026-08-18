@@ -10,7 +10,7 @@
 	- it is simply when we don't have a server on the internet and host our server locally making our own computer our server.
 - **What is HTTP?**
 	- HTTP(Hyper Text Transfer Protocol) is a set of rule or a language that allows computer(client) to talk to each other across the internet(server). 
-	- Type of requests:
+	- Type of requests(Routes):
 		1. Get: This is when we want to request a resource from the server.
 		2. Post: It's when sending a resource to the server.
 		3. Put: It's when replacing a resource with whatever is sent.<- it change the whole thing
