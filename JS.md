@@ -32,6 +32,7 @@
 - name.length\[ 0] counts the names inside  which is 1.
 - name.include(names) will check if the item exist inside the array.
 - name.push(1) will push or append to the end of the list and egg.pop will romove the last item.
+- JavaScript reads `data-value` to know what was clicked.
 
 ## Integrating JavaScript
 - There are 3 ways to add javascript to our website 
